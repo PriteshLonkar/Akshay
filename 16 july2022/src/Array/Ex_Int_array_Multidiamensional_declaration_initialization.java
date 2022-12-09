@@ -24,6 +24,7 @@ public class Ex_Int_array_Multidiamensional_declaration_initialization
 			System.out.print(ar1[i][j]+ " ");  // column size
 			}
 			System.out.println();
+			
 		}
 		
 		
